@@ -1,0 +1,108 @@
+body { background:  url(data:image/jpeg;base64,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);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(196, 189, 189); 
+    border: black;
+}
+
+p {
+    text-align: justify;
+    line-height: 30px;
+    display: flex;
+}
+
+.table{
+    display:flex;
+}
+
+.name {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dropdown {
+    margin-left: 10px;margin-top: 10px;  
+}
+
+#about_me {
+    margin-left:100px; margin-right: 100px;
+    color:black;
+}
+
+#schools {
+    margin-left:100px; margin-right: 100px;
+    color:black;
+}
+
+#experience {
+    margin-left:100px; margin-right: 100px;
+    color:black;
+    margin-left: 100px;
+  margin-right: 100px;
+}
+
+#contact {
+    margin-left:100px; margin-right: 100px;
+    color:black;
+    align-items:center;
+}
+
+#useful_links {
+    margin-left:100px; margin-right: 100px;
+    color:black;
+}
+
+#skills {
+    margin-left:100px; margin-right: 100px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    width: 20%;
+    opacity: 1;
+    box-shadow: 0px 0px 0px 5px black;  
+}
+
+img:hover {
+    transform: scale(1.1);
+  }
+
+h4 {
+    color: black;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;   
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.header {
+    font-size: larger;
+}
+
+.container {
+    font-size: 20px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 600px 600px;
+    grid-template-rows: 20px 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
